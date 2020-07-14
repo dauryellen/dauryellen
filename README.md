@@ -1,8 +1,5 @@
 # Olá, eu sou a [Daury](https://dauryellen.github.io/). 👋
 
-<!--
-**dauryellen/dauryellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Eu sou uma web developer iniciante. Estou estudando e praticando **HTML**, **CSS** e **JavaScript**. 
 
 ## O que tenho feito recentemente
@@ -14,17 +11,3 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
 <p align='center'>
   <a href=""><img height="30" src=""></a>&nbsp;&nbsp;
 </p>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
