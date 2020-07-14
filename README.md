@@ -9,5 +9,7 @@ Estou escrevendo alguns códigos para obter experiência prática nas tecnologia
 Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escrevendo sobre as coisas que estou apredendo no momento.
 
 <p align='center'>
-  <a href=""><img height="30" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
 </p>
