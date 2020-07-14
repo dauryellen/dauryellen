@@ -9,7 +9,7 @@ Estou escrevendo alguns códigos para obter experiência prática nas tecnologia
 Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escrevendo sobre as coisas que estou apredendo no momento.
 
 <p align='center'>
-  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="codepen.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dauryellen/" target="_blank"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/dauryellen" target="_blank"><img height="30" src="codepen.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/dauryoque" target="_blank"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
 </p>
