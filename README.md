@@ -10,6 +10,6 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
 
 <p align='center'>
   <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
-  <a href=""><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="codepen.png"></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
 </p>
