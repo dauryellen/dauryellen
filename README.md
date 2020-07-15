@@ -1,9 +1,5 @@
 # Olá, eu sou a [Daury](https://dauryellen.github.io/). 👋
 
-<p align='center'>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dauryellen?style=social">
-<p>
-
 Eu sou uma web developer iniciante. Estou estudando e praticando **HTML**, **CSS** e **JavaScript**. 
 
 ## O que tenho feito recentemente
@@ -18,5 +14,7 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
   <a href="https://twitter.com/dauryoque" target="_blank"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
 </p>
 
-[![HitCount](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen)
-
+<p align='center'>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dauryellen?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/dauryellen/dauryellen?style=social">
+<p>
