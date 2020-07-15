@@ -13,3 +13,7 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
   <a href="https://codepen.io/dauryellen" target="_blank"><img height="30" src="codepen.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/dauryoque" target="_blank"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
 </p>
+
+<p align='center'>
+  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=dauryellen.visitor-badge">
+<p/>
