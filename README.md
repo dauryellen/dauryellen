@@ -1,6 +1,8 @@
 # Olá, eu sou a [Daury](https://dauryellen.github.io/). 👋
-![GitHub followers](https://img.shields.io/github/followers/dauryellen?style=social)
 
+<p align='center'>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dauryellen?style=social">
+<p>
 
 Eu sou uma web developer iniciante. Estou estudando e praticando **HTML**, **CSS** e **JavaScript**. 
 
