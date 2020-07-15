@@ -15,5 +15,5 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
 </p>
 
 <div align="center">
-  [![HitCount](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen)
+  [![HitCount](http://hits.dwyl.com/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen)
 </div>
