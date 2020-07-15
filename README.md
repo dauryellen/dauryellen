@@ -15,5 +15,5 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
 </p>
 
 <p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=dauryellen.visitor-badge">
+  [![HitCount](http://hits.dwyl.com/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen)
 <p/>
