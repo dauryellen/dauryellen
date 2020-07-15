@@ -14,6 +14,5 @@ Também possuo um blog no [Dev.to](https://dev.to/dauryellen) onde estou escreve
   <a href="https://twitter.com/dauryoque" target="_blank"><img height="30" src="twitter.png"></a>&nbsp;&nbsp;
 </p>
 
-<div align="center">
-  [![HitCount](http://hits.dwyl.com/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen)
-</div>
+[![HitCount](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen.svg)](http://hits.dwyl.com/dauryellen/dauryellen/dauryellen)
+
