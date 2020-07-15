@@ -1,4 +1,7 @@
 # Olá, eu sou a [Daury](https://dauryellen.github.io/). 👋
+![GitHub followers](https://img.shields.io/github/followers/dauryellen?label=GitHub&style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/dauryoque?label=Twitter&style=plastic)
+
 
 Eu sou uma web developer iniciante. Estou estudando e praticando **HTML**, **CSS** e **JavaScript**. 
 
