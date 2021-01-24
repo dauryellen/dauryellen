@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm <a href="https://dauryellen.github.io/">Daury</a>. 👋</h1>
 <p>
 <p align="center">
-  <a href="https://twitter.com/podeserellen"><img src="linkedin.svg"></a>
-  <a href="https://www.linkedin.com/in/dauryellen/"><img src="twitter.svg"></a>
+  <a href="https://twitter.com/podeserellen" target="_blank"><img src="twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/dauryellen/" target="_blank"><img src="linkedin.svg"></a>
 <p>
   
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
