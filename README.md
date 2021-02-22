@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Hi, I'm <a href="https://dauryellen.github.io/">Daury</a>. 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://dauryellen.github.io/">Daury</a>. 👋</h1>
 <p>
 <p align="center">
   <a href="https://twitter.com/podeserellen" target="_blank"><img src="twitter.svg" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;
